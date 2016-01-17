@@ -10,6 +10,7 @@ var http = require('http');
 
 /**
  * Get port from environment and store in Express.
+ *从环境变量中取端口
  */
 
 var port = normalizePort(process.env.PORT || '3000');

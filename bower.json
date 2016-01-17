@@ -1,0 +1,19 @@
+{
+  "name": "zhufengpeixunblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "zhufengpeixun-buaiping"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
