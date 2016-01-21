@@ -7,7 +7,6 @@
 var app = require('../app');//funtion引入app模块
 var debug = require('debug')('201509blog:server');
 var http = require('http');//创建http服务器模块
-console.log(app);
 
 /**
  * Get port from environment and store in Express.
